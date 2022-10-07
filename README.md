@@ -1,0 +1,2 @@
+# reduce
+TypeScript/JavaScript reduce()
